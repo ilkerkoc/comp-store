@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name" : "Istanbul Location",
+        "street_adress" : "Alipazari Cad. No:10",
+        "phone" : "212 566 778 89 99"
+    },
+    {
+        "id": 2,
+        "name" : "Ankara Location",
+        "street_adress" : "Beypazarı Cad. No:10",
+        "phone" : "312 566 778 89 99"
+    },
+    {
+        "id": 3,
+        "name" : "İzmir Location",
+        "street_adress" : "Delipazari Cad. No:10",
+        "phone" : "554 566 778 89 99"
+    }
+]
